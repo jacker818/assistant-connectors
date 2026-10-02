@@ -1,0 +1,9 @@
+{
+  "client_id": "https://jacker818.github.io/assistant-connectors/client.json",
+  "client_name": "My Assistant",
+  "client_uri": "https://github.com/jacker818/assistant-connectors",
+  "redirect_uris": ["https://mfaalahlmgcadgjnggbeimfnbnlbbgme.chromiumapp.org/"],
+  "grant_types": ["authorization_code", "refresh_token"],
+  "response_types": ["code"],
+  "token_endpoint_auth_method": "none"
+}
